@@ -1,0 +1,10 @@
+Program Description:
+A program that schedules breaks throughout the day reminding that friend who works really long hours on the computer, to listen to music, get up and dance to their favorite song, or just walk away from the computer every once in a
+while.
+
+Steps to do this program:
+1) One way is for us to write a program that somehow keeps track of time, say two hours, and it 
+essentially does nothing during that time. So the first thing we want the program to do is Wait for two hours.
+2)And after we've waited for that amount of time, we want the program to open up a web browser, which plays let's say a YouTube video which is your friends
+favorite song. So the second thing is to open a browser.
+3) Now because we want these two steps to happen multiple times during the day. Because we want to take multiple breaks during the day,We want to put these two stepsinside some sort of loop.

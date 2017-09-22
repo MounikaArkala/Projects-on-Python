@@ -1,0 +1,8 @@
+Description: 
+
+Sometimes there is a need for code to send text messages to mobile. Consider the following. Taxi companies send out text messages to their passengers
+informing them of the cab driver's location. Dating websites help
+potential couples communicate with each other while using texts, but without sharing phone numbers.
+
+Steps to do it:
+

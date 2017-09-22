@@ -1,0 +1,3 @@
+Description : program reads the text from a document, and then scans it for curse words. And when I run my program, it detects the curse words.
+
+steps to do:read text from doc, check text for curse words
